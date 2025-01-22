@@ -1,0 +1,6 @@
+/home/doms/RiderProjects/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.exe
+/home/doms/RiderProjects/FirstConsoleApp/FirstConsoleApp/bin/Debug/FirstConsoleApp.pdb
+/home/doms/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.csproj.AssemblyReference.cache
+/home/doms/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/home/doms/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.exe
+/home/doms/RiderProjects/FirstConsoleApp/FirstConsoleApp/obj/Debug/FirstConsoleApp.pdb
